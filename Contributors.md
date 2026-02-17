@@ -2314,3 +2314,4 @@ contribution by arshi
 
 - [Selvaganapathy](https://github.com/selvaganapathycoder)
 - [Prachi Pandey](https://github.com/prachi-pandey-13)
+- [Haztry](https://github.com/Haztry)
